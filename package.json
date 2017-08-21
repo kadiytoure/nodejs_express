@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_express",
+  "version": "0.0.1",
+  "description": "first exercice about nodejs express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/nodejs_express.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "kadiy simplon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/nodejs_express#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
